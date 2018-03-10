@@ -1,0 +1,57 @@
+
+
+a{
+	font-size: 30px;
+	text-align: center;
+	color: gray;
+	margin-left: 20px;
+}
+.logo{
+	width: 20%;
+}
+.uno{
+	width: 100%;
+}
+
+hr{
+	width: 100%;
+	height: 10px;
+	background-color:#c03383;
+	border-radius: 10px;
+	margin-bottom: 50px
+}
+h1{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24pt;
+	color:#c03383;
+	margin-bottom: 25px;
+	margin-top: 30px;
+	text-align: center;
+
+}
+
+h2{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20pt;
+	color: #c03383;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14pt;
+	color:gray;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+button{
+	background-color: #c03383;
+	width: 60px;
+	height: 30px;
+	margin-top:2px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	font-family: 'Open Sans', sans-serif;
+	color:white;
+}
