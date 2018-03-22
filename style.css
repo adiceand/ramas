@@ -3,6 +3,7 @@ a{
 	text-align: center;
 	color: gray;
 	margin-left: 20px;
+
 }
 .logo{
 	width: 20%;
@@ -11,6 +12,7 @@ a{
 	margin-top: 20px;
 	width: 90%;
 	height: 470px
+
 }
 
 hr{
@@ -42,7 +44,7 @@ p{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14pt;
 	color:gray;
-	margin-top: 20px;
+	margin-top: 30px;
 	margin-bottom: 20px;
 }
 button{
@@ -55,6 +57,21 @@ button{
 	font-family: 'Open Sans', sans-serif;
 	color:white;
 }
-img{
-	width: 300px;
+
+.img2{
+	margin-top: 40px;
+	margin-bottom: 30px;
+	width: 80%;
+	height: 200px;
 }
+.redes2{ margin-top: 100px;
+	color: #c03383
+
+}
+.redes3{
+	margin-top: 200px;
+}
+.redes4{
+	margin-top:130px;
+}
+
